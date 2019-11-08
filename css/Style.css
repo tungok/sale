@@ -1,0 +1,90 @@
+.Top{
+    
+    display: flex;
+    width: 1253px;
+}
+.form-control{
+border: solid 0px;
+width: 40%;
+}
+.Menu{
+    background-color: sandybrown;
+    position: fixed;
+    height: 100%;
+    left: 0px;
+    margin-top: 40px;
+    width: 60px;
+    margin-top: 0px;
+}
+
+.btn-default {
+        color: #333;
+        background-color: #fff;
+        border-color: #ccc;
+        border: 0;
+        
+    }
+.btn-Upgrade{
+border: solid 0.5px;
+background-color: #ffffff;
+margin-top: 8px;
+color: #ffa800;
+
+
+   }
+.btnR{
+       width: 60%;
+       display: flex;
+       padding-left: 410px;
+   }
+.btntron{
+    margin-top: 5px;
+    width: 28px;
+    height: 28px;
+    border: solid 0px;
+    background: #ffb31a;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    margin-right: 1px;
+    margin-right: 7px;;
+   }
+.glyphicon  {
+       color: #fff;;
+   }
+.btn2{
+       margin-left: 20px;
+   }
+.page-action-panel{
+    background-color: #f7f7f7;
+      height: 50px;
+      width: 115%;
+      margin-left: -52px;
+      display: flex;
+}
+.Align-left{
+    
+
+
+    background-color: #ffff;
+    border: solid 0.5px;
+    border-color: #e5e5e5;
+}
+.page-action-panel-cell{
+    
+    height: 26px;
+    margin-top: 12px;
+    margin-left: 5px;
+    display: flex;
+}
+.labelx{
+    margin-right: 30px;
+    margin-left: 10px;
+}
+.page-action-panel{
+    display: flex;
+}
+.page-action-panel-cell1{
+    background-color: tan;
+    
+}
